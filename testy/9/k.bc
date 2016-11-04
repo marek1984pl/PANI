@@ -1,0 +1,28 @@
+<WARUNKI BRZEGOWE>   (wygenerowany plik - NIE EDYTOWAC)
+
+ThElPlStressSimulator_1.0
+
+2 216 374 1 5
+
+5
+
+0 0 14 0
+
+1 0 13 1
+13 1008 0 2
+
+1001 1 0
+0.000000
+1002 1 0
+500000.000000
+
+2 0 10 0
+
+3 0 13 1
+13 1002 0 0
+
+
+4 0 11 1
+11 1004 0 0
+
+
