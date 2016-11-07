@@ -5,9 +5,8 @@
 #ifndef BRZEGI_H
 #define BRZEGI_H
 
-#include <fstream>
-
 #include "porownaj.h"
+#include <fstream>
 
 // Struktura przechowujaca wymiary
 // l_wym - liczba wymiarow

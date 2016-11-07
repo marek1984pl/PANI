@@ -9,6 +9,6 @@
 #include <iostream>
 
 // funkcja porownujaca 2 stringi
-bool porownaj(const std::string & wzor, const std::string & str);
+bool porownaj(const std::string & str1, const std::string & str2);
 
 #endif //POROWNAJ_H
